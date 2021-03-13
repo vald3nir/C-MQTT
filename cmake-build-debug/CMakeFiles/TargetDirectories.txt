@@ -1,0 +1,3 @@
+/home/vald3nir/Documentos/Projetos/C/C-MQTT/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vald3nir/Documentos/Projetos/C/C-MQTT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vald3nir/Documentos/Projetos/C/C-MQTT/cmake-build-debug/CMakeFiles/C_MQTT.dir

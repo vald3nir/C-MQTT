@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/C_MQTT.dir/main.c.o  -o C_MQTT 
