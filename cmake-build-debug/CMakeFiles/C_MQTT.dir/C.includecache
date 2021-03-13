@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vald3nir/Documentos/Projetos/C/C-MQTT/main.c
+stdio.h
+-
+pthread.h
+-
+unistd.h
+-
+mosquitto.h
+-
+string.h
+-
+
